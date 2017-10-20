@@ -33,9 +33,9 @@ namespace Week4Assessment
             TeamName = name;
         }
 
-        public override void PrintInfo()
+        public override string PrintInfo()
         {
-            Console.WriteLine(VIN + " " + Make + " " + TeamName);
+            return (VIN + " " + Make + " " + TeamName);
         }
 
     }

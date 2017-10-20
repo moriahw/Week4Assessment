@@ -27,9 +27,15 @@ namespace Week4Assessment
             CarList[4] = Third;
             CarList[5] = Fourth;
 
-            for (int i = 0; i < CarList.Length; i++)
+            //for (int i = 0; i < CarList.Length; i++)
+            //{
+            //    CarList[i].PrintInfo();
+            //}
+
+
+            foreach (Car c in CarList)
             {
-                CarList[i].PrintInfo();
+                Console.WriteLine(c.PrintInfo());
             }
 
         }

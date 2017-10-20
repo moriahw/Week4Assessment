@@ -35,9 +35,9 @@ namespace Week4Assessment
             Make = carmake;
         }
 
-        public virtual void PrintInfo()
+        public virtual string PrintInfo()
         {
-            Console.WriteLine(VIN + " " + Make);
+            return (VIN + " " + Make);
         }
     }
 }
