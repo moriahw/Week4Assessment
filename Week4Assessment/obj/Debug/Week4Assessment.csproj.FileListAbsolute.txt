@@ -1,0 +1,7 @@
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\bin\Debug\Week4Assessment.exe.config
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\bin\Debug\Week4Assessment.exe
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\bin\Debug\Week4Assessment.pdb
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\obj\Debug\Week4Assessment.csprojResolveAssemblyReference.cache
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\obj\Debug\Week4Assessment.csproj.CoreCompileInputs.cache
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\obj\Debug\Week4Assessment.exe
+c:\users\grand circus student\source\repos\Week4Assessment\Week4Assessment\obj\Debug\Week4Assessment.pdb
